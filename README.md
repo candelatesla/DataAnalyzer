@@ -63,3 +63,9 @@ DataAnalyzer/
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+-----
+
+### 👨‍💻 Contributors
+
+  * **Yash Chetan Doshi** 
